@@ -1,4 +1,4 @@
-//Player:玩家1231243124214214214
+//Player
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -50,7 +50,7 @@ public class Player : Entity
 
     #endregion
 
-    //创建对象1231·24214214124
+    //创建对象
     protected override void Awake()
     {
         base.Awake();
